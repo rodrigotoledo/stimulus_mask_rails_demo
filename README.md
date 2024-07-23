@@ -16,8 +16,8 @@ A Rails application demonstrating the use of Stimulus for dynamic input masking 
 To get started with this application, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/rodrigotoledo/stimulus_mask_demo.git
-cd stimulus_mask_demo
+git clone https://github.com/rodrigotoledo/stimulus_mask_rails_demo.git
+cd stimulus_mask_rails_demo
 bundle install
 npm install
 ```
@@ -71,7 +71,7 @@ Visit `http://localhost:3000` to see the application in action.
 
 5. Contributing:
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/rodrigotoledo/stimulus_mask_demo. This project is intended to be a safe, welcoming space for collaboration.
+Bug reports and pull requests are welcome on GitHub at https://github.com/rodrigotoledo/stimulus_mask_rails_demo. This project is intended to be a safe, welcoming space for collaboration.
 
 6. License:
 
