@@ -1,0 +1,7 @@
+<h1>Stimulus Mask Demo</h1>
+<div data-controller="mask">
+  <input type="text" data-action="input->mask#mask" data-mask-format="999.999.999-99" placeholder="CPF" />
+  <input type="text" data-action="input->mask#mask" data-mask-format="99\\9.999.999-99" placeholder="CPF com literal 9" />
+  <input type="text" data-action="input->mask#mask" data-mask-format="####-####" placeholder="Qualquer caractere" />
+  <input type="text" data-action="input->mask#mask" data-mask-format="\\#9-999\\#" placeholder="Literal # e dígitos" />
+</div>
